@@ -11,9 +11,6 @@ SOURCES += main.cpp \
     serverlistener.cpp \
     requestparser.cpp
 
-include(deployment.pri)
-qtcAddDeployment()
-
 HEADERS += \
     serverlistener.h \
     requestparser.h \
