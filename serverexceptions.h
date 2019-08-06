@@ -1,3 +1,6 @@
+#include <string>
+#include <stdexcept>
+
 #ifndef SERVEREXCEPTIONS_H
 #define SERVEREXCEPTIONS_H
 
